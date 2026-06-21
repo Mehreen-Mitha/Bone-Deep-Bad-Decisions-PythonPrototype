@@ -53,13 +53,13 @@ This game uses core native Python tools and requires absolutely no third-party p
 Open your terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/Mehreen-Mitha/Hospital-Management-System.git
+git clone https://github.com/Mehreen-Mitha/Choice-Based-Narrative-Game-PythonPrototype.git
 ```
 
 2. Navigate to the Project Folder
 
 ```bash
-cd Hospital-Management-System
+cd Choice-Based-Narrative-Game-PythonPrototype
 ```
 
 3. Compile and Run

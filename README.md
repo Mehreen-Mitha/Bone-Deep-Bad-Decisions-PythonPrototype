@@ -1,4 +1,4 @@
-# Bone Deep Bad Decisions - Text-Based Adventure Game
+# Bone Deep Bad Decisions - Choice-Based Adventure Game
 
 A terminal-based dark dungeon escape game built in Python. This project takes branching narrative design and applies state-tracking logic to ensure that every player choice dynamically changes gameplay pathways, inventory items, and terminal endings.
 
